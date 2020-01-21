@@ -1,12 +1,7 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+about: Créer un raport d'erreur afin de nous aider
 ---
-
 **Describe the bug**
 A clear and concise description of what the bug is.
 
